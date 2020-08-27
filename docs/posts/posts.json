@@ -14,5 +14,21 @@
     "preview": {},
     "last_modified": "2020-08-27T18:18:11-04:00",
     "input_file": "welcome.utf8.md"
+  },
+  {
+    "path": "posts/08_27_20_Test/",
+    "title": "My Second Post",
+    "description": "This is a second post.",
+    "author": [
+      {
+        "name": "Diogo Koch Alves",
+        "url": "https://dka238.github.io/Cognitive-Psychology-Blog/"
+      }
+    ],
+    "date": "2020-08-27",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-27T18:22:43-04:00",
+    "input_file": "Test.utf8.md"
   }
 ]
