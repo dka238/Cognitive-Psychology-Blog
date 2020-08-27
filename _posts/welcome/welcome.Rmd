@@ -1,13 +1,12 @@
 ---
-title: "Welcome to My Blog"
+title: "My First Post"
 description: |
-  Welcome to our new blog, My Blog. We hope you enjoy 
-  reading what we have to say!
+  This is a first post.
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: Diogo Koch Alves
+    url: https://dka238.github.io/Cognitive-Psychology-Blog/
+    affiliation: Baruch College
+    affiliation_url: https://www.baruch.cuny.edu/
 date: 08-27-2020
 output:
   distill::distill_article:
@@ -22,5 +21,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-
-
+I can write my first post.
