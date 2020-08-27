@@ -41,15 +41,17 @@
   <meta property="twitter:description" content="This is a first post."/>
 
   <!--/radix_placeholder_meta_tags-->
+  
+  <meta name="citation_reference" content="citation_title=&lt;span class=&quot;nocase&quot;&gt;The magical number seven, plus or minus two: Some limits on our capacity for processing information.&lt;/span&gt;;citation_publication_date=1994;citation_doi=10.1037/0033-295x.101.2.343;citation_issn=0033-295X;citation_author=George A. Miller"/>
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","output"]}},"value":[{"type":"character","attributes":{},"value":["My First Post"]},{"type":"character","attributes":{},"value":["This is a first post.\n"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name","url","affiliation","affiliation_url"]}},"value":[{"type":"character","attributes":{},"value":["Diogo Koch Alves"]},{"type":"character","attributes":{},"value":["https://dka238.github.io/Cognitive-Psychology-Blog/"]},{"type":"character","attributes":{},"value":["Baruch College"]},{"type":"character","attributes":{},"value":["https://www.baruch.cuny.edu/"]}]}]},{"type":"character","attributes":{},"value":["08-27-2020"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","bibliography","output"]}},"value":[{"type":"character","attributes":{},"value":["My First Post"]},{"type":"character","attributes":{},"value":["This is a first post.\n"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name","url","affiliation","affiliation_url"]}},"value":[{"type":"character","attributes":{},"value":["Diogo Koch Alves"]},{"type":"character","attributes":{},"value":["https://dka238.github.io/Cognitive-Psychology-Blog/"]},{"type":"character","attributes":{},"value":["Baruch College"]},{"type":"character","attributes":{},"value":["https://www.baruch.cuny.edu/"]}]}]},{"type":"character","attributes":{},"value":["08-27-2020"]},{"type":"character","attributes":{},"value":["Cognitive Psychology.bib"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-resource-manifest">
-  {"type":"character","attributes":{},"value":["welcome_files/bowser-1.9.3/bowser.min.js","welcome_files/distill-2.2.21/template.v2.js","welcome_files/header-attrs-2.3/header-attrs.js","welcome_files/jquery-1.11.3/jquery.min.js","welcome_files/webcomponents-2.0.0/webcomponents.js"]}
+  {"type":"character","attributes":{},"value":["Cognitive Psychology.bib","welcome_files/bowser-1.9.3/bowser.min.js","welcome_files/distill-2.2.21/template.v2.js","welcome_files/header-attrs-2.3/header-attrs.js","welcome_files/jquery-1.11.3/jquery.min.js","welcome_files/webcomponents-2.0.0/webcomponents.js"]}
   </script>
   <!--radix_placeholder_navigation_in_header-->
   <!--/radix_placeholder_navigation_in_header-->
@@ -975,6 +977,15 @@
 
 <div class="d-article">
 <p>I can write my first post.</p>
+<h1 id="my-first-level-header">My First Level Header</h1>
+<h2 id="my-second-level-header">My Second Level Header</h2>
+<h2 id="citing-a-paper">Citing a Paper</h2>
+<p>Citation. <span class="citation" data-cites="Miller1994">(Miller <a href="#ref-Miller1994" role="doc-biblioref">1994</a>)</span>.</p>
+<div id="refs" class="references hanging-indent" role="doc-bibliography">
+<div id="ref-Miller1994">
+<p>Miller, George A. 1994. “The magical number seven, plus or minus two: Some limits on our capacity for processing information.” <em>Psychological Review</em>. <a href="https://doi.org/10.1037/0033-295x.101.2.343">https://doi.org/10.1037/0033-295x.101.2.343</a>.</p>
+</div>
+</div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
@@ -987,6 +998,36 @@
 <!--/radix_placeholder_site_after_body-->
 <!--radix_placeholder_appendices-->
 <div class="appendix-bottom"></div>
+<script id="distill-bibliography" type="text/bibtex">
+@article{Miller1994,
+abstract = {(This partially reprinted article originally appeared in Psychological Review, 1956, Vol 63, 81–97. The following abstract of the original article appeared in PA, Vol 31:2914.) A variety of researches are examined from the standpoint of information theory. It is shown that the unaided observer is severely limited in terms of the amount of information he can receive, process, and remember. However, it is shown that by the use of various techniques, e.g., use of several stimulus dimensions, recoding, and various mnemonic devices, this informational bottleneck can be broken. 20 references. (PsycINFO Database Record (c) 2016 APA, all rights reserved)},
+author = {Miller, George A.},
+doi = {10.1037/0033-295x.101.2.343},
+issn = {0033-295X},
+journal = {Psychological Review},
+pmid = {8022966},
+title = {{The magical number seven, plus or minus two: Some limits on our capacity for processing information.}},
+year = {1994}
+}
+@article{Schacter1978,
+abstract = {In the first decade of the 20th century, Richard Semon put forward a theory of memory that anticipated numerous recent developments in memory research. The theory is discussed both in its historical context and with reference to modern ideas. Semon's theoretical concern for retrieval phenomena is particularly noteworthy. Several reasons are suggested why the theory is virtually unknown today. {\textcopyright} 1978 Academic Press, Inc.},
+author = {Schacter, Daniel L. and Eich, James Eric and Tulving, Endel},
+doi = {10.1016/S0022-5371(78)90443-7},
+issn = {00225371},
+journal = {Journal of Verbal Learning and Verbal Behavior},
+title = {{Richard Semon's theory of memory}},
+year = {1978}
+}
+@article{Hintzman1986,
+abstract = {A simulation model of episodic memory, MINERVA 2, is applied to the learning of concepts, as represented by the schema-abstraction task. The model assumes that each experience produces a separate memory trace and that knowledge of abstract concepts is derived from the pool of episodic traces at the time of retrieval. A retrieval cue contacts all traces simultaneously, activating each according to its similarity to the cue, and the information retrieved from memory reflects the summed content of all activated traces responding in parallel. The MINERVA 2 model is able to retrieve an abstracted prototype of the category when cued with the category name and to retrieve and disambiguate a category name when cued with a category exemplar. The model successfully predicts basic findings from the schema-abstraction literature (e.g., differential forgetting of prototypes and old instances, typicality, and category size effects), including some that have been cited as evidence against exemplar theories of concepts. The model is compared to other classification models, and its implications regarding the abstraction problem are discussed. {\textcopyright} 1986 American Psychological Association.},
+author = {Hintzman, Douglas L.},
+doi = {10.1037/0033-295X.93.4.411},
+issn = {0033295X},
+journal = {Psychological Review},
+title = {{"Schema Abstraction" in a Multiple-Trace Memory Model}},
+year = {1986}
+}
+</script>
 <!--/radix_placeholder_appendices-->
 <!--radix_placeholder_navigation_after_body-->
 <!--/radix_placeholder_navigation_after_body-->
