@@ -1,7 +1,7 @@
 ---
-title: "My First Post"
+title: "Post 1: What is Cognitive Psychology?"
 description: |
-  This is a first post.
+  Reflections on the definition of cognitive psychology.
 author:
   - name: Diogo Koch Alves
     url: https://dka238.github.io/Cognitive-Psychology-Blog/
@@ -22,12 +22,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-I can write my first post.
+The pithy definition of cognitive psychology that my team and I generated in our discussion is as follows:
 
-# My First Level Header
-
-## My Second Level Header
-
-## Citing a Paper
-
-Citation. [@Miller1994].
+Information acquestion through sensation/perception and the subsequent interpretation and use of that information.
