@@ -1,8 +1,8 @@
 [
   {
     "path": "posts/08_27_20_Test/",
-    "title": "My Second Post",
-    "description": "This is a second post.",
+    "title": "Post 2: Introduction Readings",
+    "description": "Reflections on Introduction Readings.",
     "author": [
       {
         "name": "Diogo Koch Alves",
@@ -12,13 +12,13 @@
     "date": "2020-08-27",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-08-27T18:22:43-04:00",
-    "input_file": {}
+    "last_modified": "2020-09-03T12:17:45-04:00",
+    "input_file": "Test.utf8.md"
   },
   {
     "path": "posts/welcome/",
-    "title": "Post 1: What is Cognitive Psychology?",
-    "description": "Reflections on the definition of cognitive psychology.",
+    "title": "Post 1: Introduction",
+    "description": "Introduction and reflections on the definition of cognitive psychology.",
     "author": [
       {
         "name": "Diogo Koch Alves",
@@ -28,7 +28,7 @@
     "date": "2020-08-27",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-09-03T12:06:21-04:00",
-    "input_file": "welcome.utf8.md"
+    "last_modified": "2020-09-03T15:04:40-04:00",
+    "input_file": "Post1.utf8.md"
   }
 ]

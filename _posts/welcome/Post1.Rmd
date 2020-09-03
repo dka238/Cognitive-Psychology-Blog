@@ -1,0 +1,30 @@
+---
+title: "Post 1: Introduction"
+description: |
+  Introduction and reflections on the definition of cognitive psychology.
+author:
+  - name: Diogo Koch Alves
+    url: https://dka238.github.io/Cognitive-Psychology-Blog/
+    affiliation: Baruch College
+    affiliation_url: https://www.baruch.cuny.edu/
+date: 08-27-2020
+bibliography: Cognitive Psychology.bib
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+My goals for taking this course include deepening my knowledge of cognitive processes that I hope to include in my own research. I am particularly interested in topics such as memory acquistion/retention and attention. Specifically, I have (loose) plans to initiate a project related to the attention economy and how attention has become a scarce resource, not unlike money and time. I plan on arguing that because attention has become scarce, it subsequently becomes more valuable and may become a status signal. Another avenue I hope to explore is the strategies underlying attention allocation. How do we manage our attention and how can we mitigate mindless Instagram scrolling and "budget" our attention as we do money?
+
+I plan to use this blog as an exploratory tool through which I express reactions and reflections to the readings in class. I'm very glad to be using R Markdown to write this because I've been interested in breaking up with Microsoft Word (no hard feelings).
+
+The pithy definition of cognitive psychology that my team and I generated in our discussion is as follows:
+Information acquestion through sensation/perception and the subsequent interpretation and use of that information.
