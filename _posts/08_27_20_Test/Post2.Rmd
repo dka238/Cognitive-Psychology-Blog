@@ -28,7 +28,7 @@ I've been familiar with this paper and always default to using seven-point Liker
 One question that arose for me as I was reading this paper was: why do we see so many questionnaires that use 100-point sliding scales? I have posed this question before because it seems to me that such a strategy would capture a lot of meaninglses noise, and I was told that these types of questions are suitable for experts. For example, asking doctors about medically related questions would allow for greater precision of their answers since that is their expertise. Jury's still out for me if that's a good strategy since I haven't yet seen any substantive support for it. 
 
 
-# Shachtcer, Eich, & Tulving (1978)
+# Schacter, Eich, & Tulving (1978)
 
 This was quite a read. Having little exposure to memory research, I was struck by the amount of information and am admittedly still processing it all. I did have a few thoughts about the paper that I wanted to share, however:
 
