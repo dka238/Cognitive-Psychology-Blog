@@ -1,5 +1,21 @@
 [
   {
+    "path": "posts/Post 3/",
+    "title": "Post 3: Foundations",
+    "description": "Reflections on Foundational Readings.",
+    "author": [
+      {
+        "name": "Diogo Koch Alves",
+        "url": "https://dka238.github.io/Cognitive-Psychology-Blog/"
+      }
+    ],
+    "date": "2020-09-11",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-13T10:04:48-04:00",
+    "input_file": "Post3.utf8.md"
+  },
+  {
     "path": "posts/08_27_20_Test/",
     "title": "Post 2: Introduction Readings",
     "description": "Reflections on Introduction Readings.",
@@ -12,7 +28,7 @@
     "date": "2020-08-27",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-09-04T12:03:24-04:00",
+    "last_modified": "2020-09-11T08:29:38-04:00",
     "input_file": "Post2.utf8.md"
   },
   {

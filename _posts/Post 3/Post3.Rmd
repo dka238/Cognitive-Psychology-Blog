@@ -1,0 +1,35 @@
+---
+title: "Post 3: Foundations"
+description: |
+  Reflections on Foundational Readings.
+author:
+  - name: Diogo Koch Alves
+    url: https://dka238.github.io/Cognitive-Psychology-Blog/
+    affiliation: Baruch College
+    affiliation_url: https://www.baruch.cuny.edu/
+date: 09-11-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+# Hintzman (1986)
+
+This paper was admittedly challenging for me to get through as someone with research experience almost exclusively in the social psychology realm. With that said, I am fascinated by the notion of replicating memory processes with a simulated computer program. One thing that I considered while reading this was the relationship between human processing and computer processing, particularly as this model activated memory traces probabilistically. How would the converse be true? For example, if a computer is able to learn that one feature is more desirable or merits more attention based on some criterion, how could a human replicate that? Do humans also undergo probabilistic learning in the same was as computers?  
+
+
+# Crump, Lai, & Brosowsky (2019)
+
+The thought on probabilistic learning I had as I read Hintzman (1986) persisted while I read this paper. Of course there is mention of Shannon's H and probability of letter occurence, but what about the *perceived* probability? That is, what was the process through which the participants learned about the probability of letter occurence reflected by their IKSI?
+
+# Aujla et al. (2019)
+
+I was pretty surprised that no researcher had considered something like The Semantic Librarian before. What a fantastic idea. As someone who relies on discovering new literature either through perusing journals, articles I'm already familiar with, or Google Scholar, I am excited to follow the journey of this search engine. I have many times been frustrated by entering key words in Google Scholar trying to find a seminal article on a topic I'm interested in, only to find unrelated or vaguely related literature and to later happen across an impactful article. I'm hopeful that a more sophisticated program such as this one will alleviate some of those issues.
