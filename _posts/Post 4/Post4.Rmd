@@ -1,0 +1,34 @@
+---
+title: "Post 4: Learning"
+description: |
+  Reflections on Learning Readings.
+author:
+  - name: Diogo Koch Alves
+    url: https://dka238.github.io/Cognitive-Psychology-Blog/
+    affiliation: Baruch College
+    affiliation_url: https://www.baruch.cuny.edu/
+date: 09-25-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+# Rescorla (1988)
+
+
+
+
+# Pearce & Bouton (2001)
+
+
+
+# Delamater (2011)
+

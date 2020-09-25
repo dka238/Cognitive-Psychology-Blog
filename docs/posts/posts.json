@@ -1,5 +1,21 @@
 [
   {
+    "path": "posts/Post 4/",
+    "title": "Post 4: Learning",
+    "description": "Reflections on Learning Readings.",
+    "author": [
+      {
+        "name": "Diogo Koch Alves",
+        "url": "https://dka238.github.io/Cognitive-Psychology-Blog/"
+      }
+    ],
+    "date": "2020-09-25",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-25T09:00:17-04:00",
+    "input_file": "Post4.utf8.md"
+  },
+  {
     "path": "posts/Post 3/",
     "title": "Post 3: Foundations",
     "description": "Reflections on Foundational Readings.",
